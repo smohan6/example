@@ -1,4 +1,3 @@
-git checkout registration
 git add *
 git commit -m "My initial commit message"
 git push -u origin registration
