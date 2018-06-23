@@ -1,4 +1,4 @@
-git branch development
+git branch registration
 git add *
 git commit -m "My initial commit message"
 git push -u origin development
